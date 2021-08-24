@@ -1,0 +1,6 @@
+name: TabScore
+version: '${project.version}'
+main: at.skyfabian.Main
+api-version: 1.13
+authors: [ SkyFabian ]
+description: Tablist & Scoreboard
